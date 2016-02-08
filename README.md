@@ -1,4 +1,4 @@
 test_repo
 =========
 
-first try-out
+first try-out.
